@@ -1,2 +1,2 @@
 # sp500
-Data insights on the dpy index
+Data insights on the spy index
